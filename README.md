@@ -1,6 +1,6 @@
 # DataCamp-Certification-Portfolio
 
-A collection of my completed DataCamp certifications and course projects in data science, analytics, SQL, and Python.
+Collection of my completed certifications and projects in data science, analytics, SQL, and Python.
 ---
 
 ## Certifications
