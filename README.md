@@ -7,7 +7,7 @@ Collection of my completed certifications and projects in data science, analytic
 
 To obtain each certificate, I completed ~15–30 curated courses (per certification) selected by DataCamp.
 
-- Associate Data Analyst in SQL
+- Associate Data Analyst in SQL (https://www.datacamp.com/completed/statement-of-accomplishment/track/a1c78b1d6ba09c835c33a1cf6dbe1d1786af87a9)
 - Associate Data Scienctist in Python *(ongoing)*
 - Data Scienctist in Python *(ongoing)*
 
