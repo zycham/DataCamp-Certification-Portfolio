@@ -1,4 +1,4 @@
-# DataCamp-Certification-Portfolio
+# Data Certifications
 
 Collection of my completed certifications and projects in data science, analytics, SQL, and Python.
 ---
